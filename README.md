@@ -9,7 +9,7 @@ I am a Python Backend Developer focused on building clean, efficient, and scalab
 
 ### Projects
 * **EduPlatform** — An asynchronous API for an educational platform built with **FastAPI**, featuring secure authentication and structured course management.
-* **SocialNetwork** — A robust backend for a social networking service developed with **Django**, focusing on complex data relationships and RESTful architecture.
+* **SocialNetwork** — A backend for a social networking service developed with **Django**, focusing on complex data relationships and RESTful architecture.
 
 ### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
