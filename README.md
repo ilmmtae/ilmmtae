@@ -1,8 +1,6 @@
-# Hi, I'm Veronika! 👋 (ilmmtae)
-
 # Hi, I'm Veronika 👋
 
-Backend Developer focused on Python, clean API design, and reliable data flow. I build asynchronous web applications and microservices, manage background tasks, and containerize environments.
+Backend Developer focused on Python, clean code, and reliable data flow. I build asynchronous web applications and microservices, manage background tasks, and containerize environments.
 
 ---
 
@@ -27,7 +25,7 @@ Medical service for appointment scheduling and user profile management[cite: 2].
 * **Tasks:** Asynchronous notifications and status updates via Celery & Redis[cite: 2].
 * **Environment:** Fully containerized with Docker[cite: 2].
 
-#### ⚡ [FastAPI Microservice](https://github.com/ilmmtae/friendlyfire) *(FriendlyFire)*
+#### ⚡ [FastAPI Microservice](https://github.com/ilmmtae/friendlyfire)
 Asynchronous core service for user authentication and platform management[cite: 2].
 * **Core:** FastAPI & SQLAlchemy (async)[cite: 2].
 * **Auth:** JWT tokens and Google OAuth2 integration[cite: 2].
@@ -43,6 +41,6 @@ Social networking backend handling relational data and multi-platform integratio
 
 ### ✉️ Contact
 
-* **Telegram:** [@lmmtae](https://t.me/lmmtae)[cite: 2]
-* **LinkedIn:** [Veronika Nazaruk](www.linkedin.com/in/veronika-nazaruk-604663271)[cite: 2]
-* **Email:** veronikanazaryk8@gmail.com[cite: 2]
+* **Telegram:** [@lmmtae](https://t.me/lmmtae)
+* **LinkedIn:** [Veronika Nazaruk](www.linkedin.com/in/veronika-nazaruk-604663271)
+* **Email:** veronikanazaryk8@gmail.com
