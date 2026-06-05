@@ -20,22 +20,22 @@ Backend Developer focused on Python, clean code, and reliable data flow. I build
 ### 📂 Projects
 
 #### 🏥 [Healthy Flow](https://github.com/ilmmtae/healthy_flow)
-Medical service for appointment scheduling and user profile management[cite: 2].
-* **Backend:** Django & PostgreSQL[cite: 2].
-* **Tasks:** Asynchronous notifications and status updates via Celery & Redis[cite: 2].
-* **Environment:** Fully containerized with Docker[cite: 2].
+Medical service for appointment scheduling and user profile management
+* **Backend:** Django & PostgreSQL
+* **Tasks:** Asynchronous notifications and status updates via Celery & Redis
+* **Environment:** Fully containerized with Docker
 
 #### ⚡ [FastAPI Microservice](https://github.com/ilmmtae/friendlyfire)
-Asynchronous core service for user authentication and platform management[cite: 2].
-* **Core:** FastAPI & SQLAlchemy (async)[cite: 2].
-* **Auth:** JWT tokens and Google OAuth2 integration[cite: 2].
-* **Optimization:** Redis for rate-limiting and response caching[cite: 2].
+Asynchronous core service for user authentication and platform management
+* **Core:** FastAPI & SQLAlchemy (async)
+* **Auth:** JWT tokens and Google OAuth2 integration
+* **Optimization:** Redis for rate-limiting and response caching
 
 #### 👥 [Django Social Engine](https://github.com/ilmmtae/django-social-engine)
-Social networking backend handling relational data and multi-platform integration[cite: 2].
-* **API:** Django REST Framework (DRF) for posts, comments, and friendships[cite: 2].
-* **Integration:** Endpoints for real-time data sync with the FastAPI core service[cite: 2].
-* **Automation:** Telegram Bot for account verification via deep-linking flows[cite: 2].
+Social networking backend handling relational data and multi-platform integration
+* **API:** Django REST Framework (DRF) for posts, comments, and friendships
+* **Integration:** Endpoints for real-time data sync with the FastAPI core service
+* **Automation:** Telegram Bot for account verification via deep-linking flows
 
 ---
 
